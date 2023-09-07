@@ -1,0 +1,156 @@
+body {
+    font-family: "Roboto", sans-serif ;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+.first-section {
+    background-color: #2E2F42;
+}
+.first-section .main-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    letter-spacing: 0.02em;
+}
+.titleone {
+    font-size: 20px;
+    line-height: 0.02em;
+    font-weight: 500;
+    color: #2E2F42;
+
+}
+.t-three {
+    line-height: 1.11;
+    font-size: 36px;
+    color: #2E2F42;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+}
+.second-section .t-two {
+    font-size: 36px;
+    color: #2E2F42;
+    font-weight: 500;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+.second-section .teem .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}.second-section {
+    background-color: #F4F4FD;
+}
+.second-section .teem .text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}.second-section .teem .photo {
+    background-color: #FFFFFF;
+}
+.portfolio .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+.portfolio .text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.about-us .title {
+    color: #2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+}
+.about-us .text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.address .contacts .link {
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.address .contacts .link:hover,
+.address .contacts .link:focus {
+color: #404BBF;
+}
+.address {
+    font-style: normal;
+}
+.logo {
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    
+}
+.last-section .second-logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.last-section .accentt {
+    color: #F4F4FD;
+}
+.accent {
+    color: #2e2f42;
+}
+.list .link {
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    line-height: 1.5;
+}
+.list .link:hover,
+.list .link:focus {
+    color: #404bbf;
+}
+.first-section .button {
+    cursor: pointer;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+.first-section .button:hover,
+.first-section .button:focus {
+    background-color: #404BBF;
+}
+.last-section .text {
+    color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.last-section {
+    background-color: #2E2F42;
+}
